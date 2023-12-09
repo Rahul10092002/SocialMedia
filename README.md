@@ -1,7 +1,3 @@
-Certainly! Writing a good project description on GitHub is essential for potential collaborators or users to understand what your project is about and how to use it. Here's an example description for a social media project using the MERN (MongoDB, Express.js, React, Node.js) stack:
-
----
-
 # Social Media MERN Project
 
 **Overview:**
